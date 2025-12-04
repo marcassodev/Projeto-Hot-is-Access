@@ -6,4 +6,4 @@ FORAM UTILIZADOS NESSE PROJETO:
 - ACCESS
 - VBA
 
-Projeto realizado por mim e por Ewerton Bruno
+Projeto realizado por mim e por Ewerton Bruno (@Ewerton-Bruno12)
